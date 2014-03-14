@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/TxtBienvenida"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:text="@string/bienvenida"
+        android:textColor="@color/fondo"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/BtnNoticias"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/button"
+            android:drawableTop="@drawable/ic_action_about"
+            android:text="@string/noticias"
+            android:textColor="@color/letra_sobre_fondo" />
+
+        <Button
+            android:id="@+id/BtnLocalizacion"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/button"
+            android:drawableTop="@drawable/ic_action_place"
+            android:text="@string/localizacion"
+            android:textColor="@color/letra_sobre_fondo" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/BtnPrograma"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/button"
+            android:drawableTop="@drawable/ic_action_time"
+            android:text="@string/programa"
+            android:textColor="@color/letra_sobre_fondo" />
+
+        <Button
+            android:id="@+id/BtnOrganizacion"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/button"
+            android:drawableTop="@drawable/ic_action_group"
+            android:text="@string/organizacion"
+            android:textColor="@color/letra_sobre_fondo" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android InfoCongreso</string>
+    <string name="title_activity_main">InfoCongreso</string>
+
+    <!-- Menú principal -->
+    <string name="noticias">Noticias</string>
+    <string name="localizacion">Localización</string>
+    <string name="programa">Programa</string>
+    <string name="organizacion">Organización</string>
+    <string name="bienvenida">¡Bienvenido!</string>
+
+    <!-- Noticias -->
+    <string name="actualizando_noticias">Actualizando noticias</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cargando_noticias">Cargando las noticias</string>
+    <string name="no_hay_conexion">No hay conexión</string>
+    <string name="noticias_actualizadas">Noticias actualizadas</string>
+
+    <!-- Localización -->
+    <string name="direccion_actual">Dirección actual (GPS)</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="ir">Ir a la web</string>
+    <string name="ir_web">¿Desea más información?</string>
+    <string name="mapa_principal">Mapa principal</string>
+    <string name="no_hay_gps">La función GPS no se encuentra disponible</string>
+    <string name="restaurantes">Restaurantes</string>
+
+    <!-- Organización -->
+    <string name="comite_organizador">Comité\norganizador</string>
+    <string name="comite_cientifico">Comité\ncientífico</string>
+    <string name="foto">Fotografía</string>
+
+    <!-- Programa -->
+    <string name="contenidos">Contenido</string>
+    <string name="fechas">Fechas</string>
+    <string name="correo">correo</string>
+    <string name="resumen">Resumen</string>
+
+</resources>

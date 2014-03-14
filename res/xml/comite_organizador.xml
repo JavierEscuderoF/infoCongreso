@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item>
+        <nombre>Francisco J. Martín Mateos</nombre>
+        <correo>fjesus@us.es</correo>
+        <web>http://www.glc.us.es/fmartin</web>
+        <imagen>elgamal</imagen>
+        <grupo>Grupo de Lógica Computacional</grupo>
+        <web-grupo>http://www.glc.us.es</web-grupo>
+        <origen>Dpto. de Ciencias de la Computación e Inteligencia Artificial</origen>
+        <web-origen>http://www.cs.us.es</web-origen>
+    </item>
+    
+	<item>
+        <nombre>Gonzalo A. Aranda Corral</nombre>
+        <correo>garanda@uhu.es</correo>
+        <web>http://www.uhu.es/gonzalo.aranda</web>
+        <imagen></imagen>
+        <grupo>Grupo de Lógica Computacional</grupo>
+        <web-grupo>http://www.glc.us.es</web-grupo>
+        <origen>Universidad de Huelva</origen>
+        <web-origen>http://www.uhu.es</web-origen>
+    </item>
+</resources>

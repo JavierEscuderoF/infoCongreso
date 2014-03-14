@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="valores_topics">
+        <item>AI in Symbolic Mathematical Computing</item>
+        <item>Mechanization of Mathematics with special emphasis on Algebraic Geometry and Algebraic Topology</item>
+        <item>Computer Algebra Systems and Automated Theorem Provers</item>
+        <item>Integration of Logical Reasoning and Computer Algebra</item>
+        <item>Logic and Symbolic Computing</item>
+        <item>Combining of Logics, including fibring logics, unified logics, logical
+  fibering and similar approaches</item>
+        <item>Non-classical logics computation such as non-monotonic reasoning,
+  uncertainty, revision and beliefs</item>
+        <item>Causal inferences</item>
+        <item>New approaches to AI such as universal AI, heuristic approaches and
+  relevant Turing machines, probabilistic Turing Machines</item>
+        <item>Symmetries in AI problems</item>
+        <item>Foundations and Complexity of Symbolic Programming Languages for Symbolic Computation</item>
+        <item>Symbolic Computations for Expert Systems and Machine Learning</item>
+        <item>Implementations of Symbolic Computation Systems</item>
+        <item>Implementation, Complexity and Performance Issues</item>
+        <item>Mechanized program verification</item>
+        <item>Mechanical theorem proving in geometry</item>
+        <item>Automated reasoning</item>
+        <item>Automated discovery</item>
+        <item>Machine learning</item>
+        <item>Knowledge extraction and verification</item>
+        <item>Semantic web technologies</item>
+        <item>Mathematical computations and the Internet of Things</item>
+        <item>Multi-agent systems</item>
+        <item>Decision support systems</item>
+        <item>Engineering, Industrial and Operation Research Applications</item>
+        <item>Mathematical machine intelligence</item>
+        <item>Mathematical Knowledge</item>
+        <item>Intelligent interfaces</item>
+        <item>Collective intelligence</item>
+        <item>Relevant educational systems</item>
+        <item>Epistemology and philosophy of Symbolic Mathematical Computing</item>
+        <item>Emerging fields of computational AI such as biocomputing and quantum
+  computing</item>
+    </string-array>
+
+</resources>

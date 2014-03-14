@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item>
+        <nombre>José A. Alonso Jiménez</nombre>
+        <correo>jalonso@us.es</correo>
+        <web>http://www.glc.us.es/~jalonso</web>
+        <imagen></imagen>
+        <grupo>Grupo de Lógica Computacional</grupo>
+        <web-grupo>http://www.glc.us.es</web-grupo>
+        <origen>Dpto. de Ciencias de la Computación e Inteligencia Artificial</origen>
+        <web-origen>http://www.cs.us.es</web-origen>
+    </item>    
+
+	<item>
+		<nombre>Joaquín Borrego Díaz</nombre>
+        <correo>jborrego@us.es</correo>
+        <web>http://www.glc.us.es/~jborrego</web>
+        <imagen></imagen>
+        <grupo>Grupo de Lógica Computacional</grupo>
+        <web-grupo>http://www.glc.us.es</web-grupo>
+        <origen>Dpto. de Ciencias de la Computación e Inteligencia Artificial</origen>
+        <web-origen>http://www.cs.us.es</web-origen>
+    </item>
+</resources>

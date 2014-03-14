@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item>
+        <nombre>Congreso</nombre>
+        <latitud>37.358518</latitud>
+        <longitud>-5.986456</longitud>
+        <web>http://www.cs.us.es/</web>
+        <tipo>C</tipo>
+    </item>
+    
+    <item>
+        <nombre>Hotel Bellavista Sevilla</nombre>
+        <latitud>37.318763</latitud>
+        <longitud>-5.96835</longitud>
+        <web>115961138784982398424</web>
+        <tipo>H</tipo>
+    </item>
+    
+    <item>
+        <nombre>Albergue Inturjoven Sevilla</nombre>
+        <latitud>37.364478</latitud>
+        <longitud>-5.9862</longitud>
+        <web>100079771578992831115</web>
+        <tipo>H</tipo>
+    </item>
+    
+    <item>
+        <nombre>Hotel Silken Al-Andalus Palace</nombre>
+        <latitud>37.354023</latitud>
+        <longitud>-5.980278</longitud>
+        <web>104525286739006542186</web>
+        <tipo>H</tipo>
+    </item>
+    
+    <item>
+        <nombre>Doner Kebab el Turco</nombre>
+        <latitud>37.357895</latitud>
+        <longitud>-5.986157</longitud>
+        <web>107005658792655907468</web>
+        <tipo>R</tipo>
+    </item>    
+    
+    <item>
+        <nombre>Simons Food Reina Mercedes</nombre>
+        <latitud>37.358663</latitud>
+        <longitud>-5.986115</longitud>
+        <web>109150525941072813871</web>
+        <tipo>R</tipo>
+    </item>   
+     
+    <item>
+        <nombre>Casa Félix</nombre>
+        <latitud>37.3581</latitud>
+        <longitud>-5.986136</longitud>
+        <web>110132163308594914383</web>
+        <tipo>R</tipo>
+    </item>     
+
+    <item>
+        <nombre>Restaurante Andusi</nombre>
+        <latitud>37.356155</latitud>
+        <longitud>-5.986329</longitud>
+        <web>113242960827959215883</web>
+        <tipo>R</tipo>
+    </item>
+</resources>

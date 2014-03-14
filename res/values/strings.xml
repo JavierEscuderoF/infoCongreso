@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android InfoCongreso</string>
+    <string name="title_activity_main">InfoCongreso</string>
+
+    <!-- Menú principal -->
+    <string name="noticias">News</string>
+    <string name="localizacion">Location</string>
+    <string name="programa">Schedule</string>
+    <string name="organizacion">Organization</string>
+    <string name="bienvenida">Welcome!</string>
+
+    <!-- Noticias -->
+    <string name="actualizando_noticias">Updating news</string>
+    <string name="actualizar">Update</string>
+    <string name="cancelar">Cancel</string>
+    <string name="cargando_noticias">Loading news</string>
+    <string name="no_hay_conexion">No Internet connection</string>
+    <string name="noticias_actualizadas">News updated</string>
+
+    <!-- Localización -->
+    <string name="direccion_actual">Current position (GPS)</string>
+    <string name="hoteles">Hotels</string>
+    <string name="ir">Go web</string>
+    <string name="ir_web">Want more information?</string>
+    <string name="mapa_principal">Main map</string>
+    <string name="no_hay_gps">GPS is not available</string>
+    <string name="restaurantes">Restaurants</string>
+
+    <!-- Organización -->
+    <string name="comite_organizador">Local Organization\nCommittee</string>
+    <string name="comite_cientifico">Program\nCommittee</string>
+    <string name="foto">Photograph</string>
+
+    <!-- Programa -->
+    <string name="contenidos">Program content</string>
+    <string name="correo">mail</string>
+    <string name="fechas">Dates</string>
+    <string name="web">web</string>
+    <string name="resumen">Summary</string>
+    
+    <string name="texto_contenidos">Submitted papers should be related with one or more of the main themes proposed for the Conference.\n\n
+As usual the conference welcomes papers with a strong AI component that make use of symbolic computation in a wide sense (not excluding but not restricted to computer algebra). However, AISC 2014 aims at extending the scope of this series of conferences to computing in AI thus covering new areas.\n\n
+Full or shorter papers as well as works from doctoral students are welcome.\n\n
+Topics of either theoretical or applied interest include the following non-exhaustive list of topics:</string>
+
+    <string name="texto_fechas">
+        Paper submission:\n\tJune 15th 2014\n
+		Notification of acceptance/rejection:\n\tSeptember 3rd 2014\n
+		Camera-ready copy due:\n\tSeptember 24th 2014</string>
+
+    <string name="texto_resumen">Conferences in this series are held since 1992 on even years. The previous ones were:\n\n
+
+AISMC-1: Karlsruhe (Germany, 1992)\n
+AISMC-2: Cambridge (United Kingdom, 1994)\n
+AISMC-3: Steyr (Austria, 1996)\n
+AISC\'1998: Plattsburgh(USA)\n
+AISC\'2000: Madrid (Spain)\n
+AISC\'2002: Marseille (France)\n
+AISC\'2004: Hagenberg (Austria)\n
+AISC\'2006: Beijing (China)\n
+AISC\'2008: Birmingham (United Kingdom)\n
+AISC\'2010: Paris (France)              (within CICM 2010)\n
+AISC\'2012: Bremen (Germany)     (within CICM\'2012)\n\n
+
+The first three were named "Artificial Intelligence and Symbolic Mathematical Computing (AISMC)". The recent conferences were part of the integrated federation of conferences CICM (Conferences on Intelligent Computer Mathematics).\n\n
+The goals of this series were to attract researchers active in Symbolic Computation and Artificial Intelligence. In practice, the main topics were linked to a combination of computer algebra, automated theorem proving and AI. AISC\'2014 will be again independent in order to extend the scope of the conference. It will aim at attracting contributions from both classical theory fields and application areas. The aims are to offer a forum for young and advanced researchers and mainly to manage that they have opportunities to interact.</string>
+
+</resources>
